@@ -9,7 +9,6 @@ I believe that education is the first step to change the world, that's why I sta
 - 🐶 Mãe de 4 filhas caninas
 - 🧣 Uma grande fã da Taylor Swift
 
-![Jolaiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolaiana&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolaiana&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
